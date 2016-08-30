@@ -14,3 +14,20 @@ Description: A tweak to make the NC rounded, as well as notification banners.
 Name: Roundification
 Author: zachatrocity <zachatrocity@gmail.com>
 Depiction: http://www.zachatrocity.com/repo/depic/com.atrocity.roundificaion/index.html
+
+Package: com.bacca001.tweaktest
+Version: 0.0.1-4
+Priority: optional
+Section: Tweaks
+Maintainer: Bacca001 <bacca001@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.bacca001.tweaktest_0.0.1-4_iphoneos-arm.deb
+Size: 4354
+MD5um: ad36c972fcf95a56866b94201f02f595
+SHA1: 1b2631e89db6147f316e038613d5d1b1cbdd8630
+SHA256: 0a2a7ff8c0bb6326d2820a88695b2a494e105e4724f6b1f03ff1cccddcdf6a0c
+Description: Tweak di test per cambiare il testo in lockscreen.
+Name: TestTweak
+Author: Bacca001 <bacca001@gmail.com>
+Depiction: http://www.zachatrocity.com/repo/depic/com.bacca001.tweaktest/index.html
