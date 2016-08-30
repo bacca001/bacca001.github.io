@@ -1,0 +1,9 @@
+Origin: Bacca001 - Cydia
+Label: Bacca001 Repo
+Suite: stable
+Version: 1.0
+Codename: bacca001
+Architectures: iphoneos-arm
+Components: main
+Description: Repo di Bacca001 - Lyrons.
+MD5Sum:
