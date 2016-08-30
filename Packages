@@ -13,7 +13,7 @@ SHA256: 0b7af535c00fc710aff6d66d2890eacb900dfea623e484c46690a9575b1e61cd
 Description: A tweak to make the NC rounded, as well as notification banners.
 Name: Roundification
 Author: zachatrocity <zachatrocity@gmail.com>
-Depiction: http://www.zachatrocity.com/repo/depic/com.atrocity.roundificaion/index.html
+Depiction: https://bacca001.github.io/depic/com.atrocity.roundificaion/index.html
 
 Package: com.bacca001.tweaktest
 Version: 0.0.1-4
@@ -30,4 +30,4 @@ SHA256: 0a2a7ff8c0bb6326d2820a88695b2a494e105e4724f6b1f03ff1cccddcdf6a0c
 Description: Tweak di test per cambiare il testo in lockscreen.
 Name: TestTweak
 Author: Bacca001 <bacca001@gmail.com>
-Depiction: http://www.zachatrocity.com/repo/depic/com.bacca001.tweaktest/index.html
+Depiction: https://bacca001.github.io/depic/com.bacca001.tweaktest/index.html
