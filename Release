@@ -1,8 +1,8 @@
-Origin: zachatrocity's Repo
-Label: zachatrocity's Repo
+Origin: Bacca001 Repo
+Label: Bacca001 Repo
 Suite: stable
 Version: 1.0
-Codename: zachatrocity
+Codename: bacca001
 Architectures: iphoneos-arm
 Components: main
-Description: zachatrocity's repo used mainly for testing
+Description: Bacca001 Repo Cydia
