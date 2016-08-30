@@ -13,7 +13,7 @@ SHA256: 0b7af535c00fc710aff6d66d2890eacb900dfea623e484c46690a9575b1e61cd
 Description: A tweak to make the NC rounded, as well as notification banners.
 Name: Roundification
 Author: zachatrocity <zachatrocity@gmail.com>
-Depiction: https://bacca001.github.io/depic/com.atrocity.roundificaion/index.html
+Depiction: https://bacca001.github.io/depic/com.atrocity.roundification/index.html
 
 Package: com.bacca001.tweaktest
 Version: 0.0.1-4
