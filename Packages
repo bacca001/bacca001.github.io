@@ -1,15 +1,15 @@
 Package: com.bacca001.slidelocktext
-Version: 0.0.1-1
+Version: 0.0.1-5
 Priority: optional
 Section: Tweaks
 Maintainer: Bacca001 <bacca001@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.bacca001.slidelocktext_0.0.1-3_iphoneos-arm.deb
-Size: 1298
-MD5um: 225b8eafc6ea7b9690d003f3a6356977
-SHA1: 634b2d4a5232e7f0534bdc8034806214706e6996
-SHA256: fb865b8975eb8700430861e82ae132f9e448ea2bb3af5ab1a947635f7f09d17a
+Filename: ./debs/com.bacca001.slidelocktext_0.0.1-5_iphoneos-arm.deb
+Size: 2260
+MD5um: 09cb1abe939d1014b1f81e279baf7626
+SHA1: 24672880f0453bf7c03bb978199412e2d868cfe7
+SHA256: d51fb33f7c42512fb6c9211d643e8b7f835439bb802dcc2b5cc5fbe01a875bcf
 Description: Tweak che cambia il testo "slide to unlock".
 Name: SlideLockText
 Author: Bacca001 <bacca001@gmail.com>
