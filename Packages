@@ -1,37 +1,3 @@
-Package: com.bacca001.tweaktest
-Version: 0.0.1-4
-Priority: optional
-Section: Tweaks
-Maintainer: Bacca001 <bacca001@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.bacca001.tweaktest_0.0.1-4_iphoneos-arm.deb
-Size: 4354
-MD5um: ad36c972fcf95a56866b94201f02f595
-SHA1: 1b2631e89db6147f316e038613d5d1b1cbdd8630
-SHA256: 0a2a7ff8c0bb6326d2820a88695b2a494e105e4724f6b1f03ff1cccddcdf6a0c
-Description: Tweak di test per cambiare il testo in lockscreen.
-Name: TestTweak
-Author: Bacca001 <bacca001@gmail.com>
-Depiction: https://bacca001.github.io/depic/com.bacca001.tweaktest/index.html
-
-Package: com.bacca001.msgbenvenuto
-Version: 0.0.1-1
-Priority: optional
-Section: Tweaks
-Maintainer: Bacca001 <bacca001@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.bacca001.msgbenvenuto_0.0.1-1_iphoneos-arm.deb
-Size: 6914
-MD5um: 2fe21b7aa2f0b4417e7890e5b07eb788
-SHA1: 38067eb8fd969f828f01201d6d256987e538b0cb
-SHA256: 9fa0992fdbf5ba37d9aff690360686ede6dec1979175c696d61622423ea5079d
-Description: Tweak di test 2.
-Name: MsgBenvenuto
-Author: Bacca001 <bacca001@gmail.com>
-Depiction: https://bacca001.github.io/depic/com.bacca001.msgbenvenuto/index.html
-
 Package: com.bacca001.slidelocktext
 Version: 0.0.1-1
 Priority: optional
