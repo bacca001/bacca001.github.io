@@ -31,3 +31,20 @@ Description: Tweak di test 2.
 Name: MsgBenvenuto
 Author: Bacca001 <bacca001@gmail.com>
 Depiction: https://bacca001.github.io/depic/com.bacca001.msgbenvenuto/index.html
+
+Package: com.bacca001.slidelocktext
+Version: 0.0.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: Bacca001 <bacca001@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.bacca001.slidelocktext_0.0.1-3_iphoneos-arm.deb
+Size: 1298
+MD5um: 225b8eafc6ea7b9690d003f3a6356977
+SHA1: 634b2d4a5232e7f0534bdc8034806214706e6996
+SHA256: fb865b8975eb8700430861e82ae132f9e448ea2bb3af5ab1a947635f7f09d17a
+Description: Tweak che cambia il testo "slide to unlock".
+Name: SlideLockText
+Author: Bacca001 <bacca001@gmail.com>
+Depiction: https://bacca001.github.io/depic/com.bacca001.slidelocktext/index.html
